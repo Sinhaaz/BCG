@@ -69,7 +69,7 @@ Do you think that the model performance is satisfactory? Give justification for 
 
 **Answer :** 
  >- [Task 3 - Feature Engineering and Modelling Model](https://github.com/Sinhaaz/BCG-Data-Science-and-Analytics-Virtual-Experience/blob/main/feature_engineering_and_modelling_model%20-%20Task%203.ipynb)
- >- [Task 3 - Bonus Discount(https://github.com/Sinhaaz/BCG-Data-Science-and-Analytics-Virtual-Experience/blob/main/bonus_discount_impact%20-%20Task%203.ipynb)
+ >- [Task 3 - Bonus Discount](https://github.com/Sinhaaz/BCG-Data-Science-and-Analytics-Virtual-Experience/blob/main/bonus_discount_impact%20-%20Task%203.ipynb)
 ### If you are stuck:
 
 #### Sub-Task 1
