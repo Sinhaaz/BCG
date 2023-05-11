@@ -43,6 +43,8 @@ Verify the hypothesis of price sensitivity being to some extent correlated with 
 ### Sub-Task 3:
 Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other sources of data should the client provide you with and which open source datasets might be useful?
 
+**Answer :** [Task 2](https://github.com/Sinhaaz/BCG-Data-Science-and-Analytics-Virtual-Experience/blob/main/EDA%20-%20Task%202.ipynb)
+
 ## Task 3 - Feature Engineering & Modelling
 
 ### Sub-Task 1
