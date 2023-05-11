@@ -1,6 +1,7 @@
 # BCG-Data-Science-and-Analytics-Virtual-Experience
 ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225690586-ef6095dc-a2e4-4835-8061-6707adf54c08.png)
 
+**[Certificate]()**
 
 ## About PowerCo:
 It is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. 
