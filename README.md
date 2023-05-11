@@ -1,5 +1,4 @@
-# BCG
-## BCG-Data-Science-and-Analytics-Virtual-Experience
+# BCG-Data-Science-and-Analytics-Virtual-Experience
 ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225690586-ef6095dc-a2e4-4835-8061-6707adf54c08.png)
 
 ## About PowerCo:
