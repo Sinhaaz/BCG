@@ -1,5 +1,4 @@
 # BCG-Data-Science-and-Analytics-Virtual-Experience
-![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225690586-ef6095dc-a2e4-4835-8061-6707adf54c08.png)
 
 **[Certificate](https://github.com/Sinhaaz/BCG-Data-Science-and-Analytics-Virtual-Experience/blob/main/BCG%20Certificate.pdf)**
 
