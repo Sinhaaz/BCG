@@ -1,7 +1,7 @@
 # BCG-Data-Science-and-Analytics-Virtual-Experience
 ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225690586-ef6095dc-a2e4-4835-8061-6707adf54c08.png)
 
-**[Certificate]()**
+**[Certificate](https://github.com/Sinhaaz/BCG-Data-Science-and-Analytics-Virtual-Experience/blob/main/BCG%20Certificate.pdf)**
 
 ## About PowerCo:
 It is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. 
@@ -67,7 +67,7 @@ Document the advantages and disadvantages of using the Random Forest for this us
 Do you think that the model performance is satisfactory? Give justification for your answer.
 (Bonus) - Relate the model performance to the client's financial performance with the introduction of the discount proposition. How much money could a client save with the use of the model? What assumptions did you make to come to this conclusion?
 
-
+**Answer :** [Task 3]()
 ### If you are stuck:
 
 #### Sub-Task 1
@@ -95,6 +95,7 @@ Note: a steering committee meeting is a meeting where the BCG team presents key 
  - What is the most important number or metric to share with the client?
  - What impact would the model have on the client’s bottom line?
  - Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
+ **Answer :** [Task 4]()
 
 ### If you are stuck:
 
